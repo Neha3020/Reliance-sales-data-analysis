@@ -63,9 +63,10 @@ This Power BI report analyzes product sales and returns across regions and state
 
 ---
 ## 📁 Files
-- `reliance-smart-report.pbix` – The Power BI report file.
-- `reliance.csv` – Dataset files .
-- `reliance-logo.png` - Logo image . 
+- `r[eliance-smart-report.pbix](https://github.com/Neha3020/Reliance-sales-data-analysis/blob/main/New%20Reliance%20Sales%20Report.pbix)` – The Power BI report file.
+- `https://github.com/Neha3020/Reliance-sales-data-analysis/blob/main/DATASET.zip` – Dataset file .
+-  `[https://github.com/Neha3020/Reliance-sales-data-analysis/blob/main/DATASET.zip](https://github.com/Neha3020/Reliance-sales-data-analysis/blob/main/Transactions-20250522T091724Z-1-001.zip)` – Transations file .
+- `https://github.com/Neha3020/Reliance-sales-data-analysis/blob/main/Reliance%20Smart%20logo.png` - Logo image . 
 
 
 ## 🛠 Tools Used
