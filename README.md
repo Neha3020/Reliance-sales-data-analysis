@@ -65,6 +65,7 @@ This Power BI report analyzes product sales and returns across regions and state
 ## 📁 Files
 - `reliance-smart-report.pbix` – The Power BI report file.
 - `reliance.csv` – Dataset files .
+- `reliance-logo.png` - Logo image . 
 
 
 ## 🛠 Tools Used
